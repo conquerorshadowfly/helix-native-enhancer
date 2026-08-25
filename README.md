@@ -30,4 +30,4 @@ Complete **Helix Native Enhancer** production suite with professional audio reco
 3. **Studio-Grade Mixing:** Advanced mixer with automation, routing, and mastering-ready output chain.
 
 ## Legal
-> This project is shared as-is. All product names and logos belong to their respective owners.             
+> This project is shared as-is. All product names and logos belong to their respective owners.              
